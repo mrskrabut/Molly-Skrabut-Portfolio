@@ -1,17 +1,16 @@
 # Physical Therapist
 
 ### About Me 
-Hello! I am an experienced BioHealth major and aspiring Physical Therapist professional with over [Number] years of proven expertise in [Field] and [Specialization]. 
+Hello! I am an experienced BioHealth major and aspiring Physical Therapist professional with over 2 years of proven expertise in physical therapy and scoliosis therapy. 
 
 
-With skills in [Skill 1], [Skill 2], [Skill 3], and [Skill 4], I am able to [Action Verb] [Specific Task], and achieve [Accomplishment]. I am adept at using [Technology/Tool 1], [Technology/Tool 2], and [Technology/Tool 3]. 
+With skills in pediatrics, sports medicine, rehabilitation, and analysis, I am able to devise exercise programs, and achieve improvement in strength and stamina. I am adept at using Excel, Python 3, and Access. 
 
 
-My [Adjective] skill set, commitment to [Value/Quality], and passion for [Interest] me as a valuable asset.  In my spare time, I like to [Hobby 1] and [Hobby 2]. 
+My assorted skill set, commitment to detail, and passion for helping others qualify me as a valuable asset.  In my spare time, I like to paint and hike. 
 
 
-You can find me on [LinkedIn Hyperlink], [Social Media 1] or [linkedin](https://google.com) 
-
+You can find me on [LinkedIn](https://www.linkedin.com/in/molly-skrabut-902639321?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Be5DgbrjAQ6ejV5rA0%2FjGEw%3D%3D) or [Instagram](https://www.instagram.com/mollyskrabut/) 
 
 
 ### Education 
