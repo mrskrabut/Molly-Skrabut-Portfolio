@@ -14,7 +14,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/molly-skrabut-90263932
 
 
 ### Education 
-BSc in [Major]
+BSc in BioHealth
 Loyola University, MD
 
 ### Projects
