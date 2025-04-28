@@ -30,7 +30,8 @@ Loyola University, MD
 
 
 ***
-#### Project 3 Title
+#### Budget Tracker
  - image
- - write up
+ - I came up with this project by wanting to help myself organize my finances. This helped me visualize my savings and understand how to reach my financial goals. I used excel and its sum function to help me complete this project. A challenge I faced was realizing that my savings goal was a little too ambitious at first for the amount of expenses I have. To fix this, I thought more realistically and edited my goal. I collaborated with other classmates to help troubleshoot any issues we encountered throughout the way. I also used the internet to find out the prices of things like subscriptions. I set out to achieve an easier way to calculate my finances and infer my savings. I successfully achieved this using excel and its functions. If I had a chance to take this further I would add more finances that I forgot like Spotify. The Budget Tracker project helped me think critically about my monthly expenses. It helped me visualize everything in one place and see my savings goal versus an accurate savings amount.  
+
 
