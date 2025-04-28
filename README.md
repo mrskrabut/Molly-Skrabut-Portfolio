@@ -9,6 +9,7 @@ Hello! I am an experienced BioHealth major and aspiring Physical Therapist profe
 
 With skills in pediatrics, sports medicine, rehabilitation, and analysis, I am able to devise exercise programs, and achieve improvement in strength and stamina. I am adept at using Excel, Python 3, and Access. 
 
+***
 
 My assorted skill set, commitment to detail, and passion for helping others qualify me as a valuable asset.  In my spare time, I like to paint and hike. 
 
